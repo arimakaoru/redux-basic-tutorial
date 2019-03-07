@@ -1,0 +1,23 @@
+{
+  "name": "redux-basic-tutorial",
+  "version": "1.0.0",
+  "description": "https://redux.js.org/basics/basic-tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arimakaoru/redux-basic-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arimakaoru/redux-basic-tutorial/issues"
+  },
+  "homepage": "https://github.com/arimakaoru/redux-basic-tutorial#readme"
+}
