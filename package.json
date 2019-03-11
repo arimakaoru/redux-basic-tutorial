@@ -4,6 +4,7 @@
   "description": "https://redux.js.org/basics/basic-tutorial",
   "main": "index.js",
   "dependencies": {
+    "react-redux": "^6.0.1",
     "redux": "^4.0.1"
   },
   "devDependencies": {},
