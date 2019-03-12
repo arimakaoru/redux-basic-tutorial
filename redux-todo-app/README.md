@@ -5,3 +5,5 @@ https://redux.js.org/basics/basic-tutorial
 - Reducers
 - Store
 - Data flow
+- Usage with React
+- Example: Todo List
