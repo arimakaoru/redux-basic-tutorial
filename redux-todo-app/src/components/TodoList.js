@@ -10,6 +10,7 @@ const TodoList = ({ todos, toggleTodo }) => (
   </ul>
 )
 
+// TodoListコンポーネントが受け取るPropsの型を指定すると、チェックしてくれる
 TodoList.propTypes = {
   todos: PropTypes.arrayOf(
     PropTypes.shape({
